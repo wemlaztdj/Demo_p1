@@ -1,4 +1,4 @@
-OPE ID,School,State,Zip Code,School Type,PROCESSED IN Q2 Dependent Students,PROCESSED IN Q2 Independent Students,PROCESSED IN Q2 Quarterly Total,AWARD YEAR TO DATE Dependent Students,AWARD YEAR TO DATE Independent Students,AWARD YEAR TO DATE Award Year To Date Total
+OPE ID,School,State,Zip Code,School Type,Quarterly Dependent Students,Quarterly Independent Students,Quarterly Total,YTD Dependent Students,YTD Independent Students,Award Year To Date Total
 100200,ALABAMA AGRCLTL & MECHL UNIV            ,AL,35762-1357,Public       ,"2,289",654,"2,943","6,542","1,315","7,857"
 100300,FAULKNER UNIVERSITY                     ,AL,36109-3398,Private      ,474,776,"1,250","1,108","1,302","2,410"
 100400,UNIVERSITY OF MONTEVALLO                ,AL,35115-6000,Public       ,789,234,"1,023","2,609",529,"3,138"
