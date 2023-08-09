@@ -7,7 +7,16 @@ geoapify
 
 ### FAFSA
 https://studentaid.gov/data-center/student/application-volume/fafsa-school-state
-OPE ID,	School,	State,	Zip Code,	School Type,	Quarterly Dependent Students,	Quarterly Independent Students,	Quarterly Total,	YTD Dependent Students,	YTD Independent Students,	Award Year To Date Total
+OPE ID,	
+School,	State,	
+Zip Code,	
+School Type,	
+Quarterly Dependent Students,	
+Quarterly Independent Students,	
+Quarterly Total,	
+YTD Dependent Students,	
+YTD Independent Students,	
+Award Year To Date Total
 
 ### Kaggle
 https://www.kaggle.com/datasets/thedevastator/the-schools-that-create-the-most-student-debt
