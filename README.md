@@ -46,4 +46,5 @@ $ of Loans Originated
 # of Loans Disbursed
 $ of Loans Disbursed
 
-
+### US Zip Codes Database
+https://simplemaps.com/data/us-zips
