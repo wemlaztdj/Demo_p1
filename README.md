@@ -48,3 +48,8 @@ $ of Loans Disbursed
 
 ### US Zip Codes Database
 https://simplemaps.com/data/us-zips
+
+
+### U.S. Regions
+
+https://education.nationalgeographic.org/resource/united-states-regions/
