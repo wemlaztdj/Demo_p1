@@ -1,10 +1,10 @@
 # Project1
+Student Loan Debt Analysis 2020-2021
 
-## API
-geoapify
+## Description
+This project provides an in-depth analysis of student loan debt in the U.S. for the academic year 2020-2021. Using data from Kaggle, we explore trends in loan amounts, recipients, distribution by school type, and geographic distribution.
 
-## Resources
-
+## Data Resources
 ### Kaggle
 https://www.kaggle.com/datasets/thedevastator/the-schools-that-create-the-most-student-debt
 This tab provides assumptions and definitions for the Loan Volume Reports.
@@ -36,13 +36,30 @@ Recipients
 ### US Zip Codes Database
 https://simplemaps.com/data/us-zips
 
-
 ### U.S. Regions
 
 https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf
 
+### API
+geoapify
 
 
+
+## Example of Findings
+
+![image](https://github.com/wemlaztdj/Project1/assets/19890554/146e98cc-bb7b-4809-911f-ae1d9ba7eb53)
+
+
+![image](https://github.com/wemlaztdj/Project1/assets/19890554/236ea933-e22d-4623-948d-dd00b8ad54e4)
+
+
+## Installation
+
+1. Clone this repository.
+2. Install required libraries using `pip install -r requirements.txt`.
+```bash
+pip install -r requirements.txt
+```
 ## Contributing
 
 Tianxiao Cao
