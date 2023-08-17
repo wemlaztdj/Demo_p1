@@ -59,7 +59,12 @@ geoapify
 ![image](https://github.com/wemlaztdj/Project1/assets/19890554/146e98cc-bb7b-4809-911f-ae1d9ba7eb53)
 
 
+![image](https://github.com/wemlaztdj/Project1/assets/19890554/f2f1c2f3-a7da-4b98-800a-68864f3cf457)
+
+
 ![image](https://github.com/wemlaztdj/Project1/assets/19890554/236ea933-e22d-4623-948d-dd00b8ad54e4)
+
+
 
 
 ## Installation
