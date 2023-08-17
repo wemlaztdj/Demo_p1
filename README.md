@@ -7,6 +7,7 @@ geoapify
 
 ### FAFSA
 https://studentaid.gov/data-center/student/application-volume/fafsa-school-state
+
 OPE ID,	
 School,	State,	
 Zip Code,	
@@ -17,6 +18,8 @@ Quarterly Total,
 YTD Dependent Students,	
 YTD Independent Students,	
 Award Year To Date Total
+
+https://fsapartners.ed.gov/knowledge-center/library/resource-type/Federal%20School%20Code%20Lists
 
 ### Kaggle
 https://www.kaggle.com/datasets/thedevastator/the-schools-that-create-the-most-student-debt
@@ -46,4 +49,10 @@ $ of Loans Originated
 # of Loans Disbursed
 $ of Loans Disbursed
 
+### US Zip Codes Database
+https://simplemaps.com/data/us-zips
 
+
+### U.S. Regions
+
+https://education.nationalgeographic.org/resource/united-states-regions/
