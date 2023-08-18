@@ -54,17 +54,22 @@ geoapify
 
 
 
-## Example of Findings
+## Examples of Findings
 
-![image](https://github.com/wemlaztdj/Project1/assets/19890554/146e98cc-bb7b-4809-911f-ae1d9ba7eb53)
+
+The graph depicts the distribution of recipient counts across different states, arranged in descending order.
+![image](https://github.com/wemlaztdj/Project1/assets/19890554/8a34c027-6cdf-4e9d-b6ca-accfc9899e92)
+
+The graph depicts the distribution of school counts across different states, arranged in descending order.
+![image](https://github.com/wemlaztdj/Project1/assets/19890554/569eaab2-f7af-40a0-83b2-281c391efc23)
+![image](https://github.com/wemlaztdj/Project1/assets/19890554/d7bef1fd-c29d-4d9b-b5c0-a0a7b413f4ad)
+![image](https://github.com/wemlaztdj/Project1/assets/19890554/f688f4e6-0d26-4a2d-82c9-b346eb7929f8)
 
 
 ![image](https://github.com/wemlaztdj/Project1/assets/19890554/f2f1c2f3-a7da-4b98-800a-68864f3cf457)
-
-
 ![image](https://github.com/wemlaztdj/Project1/assets/19890554/236ea933-e22d-4623-948d-dd00b8ad54e4)
 
-
+![image](https://github.com/wemlaztdj/Project1/assets/19890554/146e98cc-bb7b-4809-911f-ae1d9ba7eb53)
 
 
 ## Installation
