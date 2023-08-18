@@ -85,7 +85,7 @@ The loan amounts for the top three states (CA, TX, NY) were subjected to a varia
 
 For the three states with top loan numbers (TX, CA, PA), a variance analysis test was performed on the loan numbers. However, the assumption of homogeneity of variances was violated, and the result was statistically significant (p < .001). Subsequently, a Games-Howell post hoc pair-wise comparison was conducted. The loan number for CA was significantly lower than PA (p < .05), and the loan number for CA was also significantly lower than TX (p < .001).
 
-### model fitting
+### Multivariate Linear Regression Model: State, School Type & Loan Type - Loan Amounts $
 We constructed a multivariate linear regression model with independent variables: State, School Type, and Loan Type, and the dependent variable: Number of Loans. Unfortunately, the model fitting yielded unsatisfactory results, with an R-squared value of 0.111 and an adjusted R-squared value of 0.107.
 
 We attempted to improve the model by introducing interaction effects, such as School Type_Proprietary * Loan Type_Subsidized. However, even with these additional terms, the model's performance remained suboptimal, yielding an R-squared value of 0.110 and an adjusted R-squared value of 0.106.
