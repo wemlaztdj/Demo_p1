@@ -71,11 +71,19 @@ The graph depicts the top 10 states with the most student loan amounts
 The violin plot describes the loan # distribution of the top 10 states
 ![image](https://github.com/wemlaztdj/Project1/assets/19890554/236ea933-e22d-4623-948d-dd00b8ad54e4)
 
+The graph depicts the amounts of Loans Provided by Loan Categories
+![image](https://github.com/wemlaztdj/Project1/assets/19890554/9504ce6e-9627-4bc1-a571-79e071ef04c6)
 
 The graph depicts the total $ of Loans Originated by State and Region
 ![image](https://github.com/wemlaztdj/Project1/assets/19890554/146e98cc-bb7b-4809-911f-ae1d9ba7eb53)
+
 The graph depicts the state average Student Loan Amounts Originated per Recipient by Region
 ![image](https://github.com/wemlaztdj/Project1/assets/19890554/96db92b6-6dc9-41be-8c44-ab88940aad30)
+
+### Top three states analysis
+The loan amounts for the top three states (CA, TX, NY) were subjected to a variance analysis test. Initially, the assumption of homogeneity of variances was met. Subsequent one-way ANOVA results indicated non-significant differences among the three groups.
+
+For the three states with top loan numbers (TX, CA, PA), a variance analysis test was performed on the loan numbers. However, the assumption of homogeneity of variances was violated, and the result was statistically significant (p < .001). Subsequently, a Games-Howell post hoc pair-wise comparison was conducted. The loan number for CA was significantly lower than PA (p < .05), and the loan number for CA was also significantly lower than TX (p < .001).
 
 
 ## Installation
